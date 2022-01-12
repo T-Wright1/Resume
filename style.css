@@ -1,0 +1,19 @@
+body {
+  background-color: #F4F4F4;
+  font-family: Verdana, sans-serif;
+}
+hr {
+  border-color: gray;
+  border-style: double none none;
+  border-width: 5px;
+}
+h1 {
+  color: #557571;
+  font-family: Georgia, serif;
+}
+h2 {
+  color: #D49A89;
+}
+h3 {
+  color: #D49A89;
+}
